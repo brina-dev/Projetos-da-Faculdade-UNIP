@@ -90,7 +90,7 @@ void solucao2()
 
 // local > estrangeira = divisao
 // estrangeira > local = multiplicacao
-// o cambio é sempre quanto 1 unidade da estrangeira compra de local.
+// o cambio Ã© sempre quanto 1 unidade da estrangeira compra de local.
 
 int main()
 {
