@@ -1,3 +1,6 @@
+\\Nesse código mostro como usamos o comando char em C. Neste programa apresenta como juntar o nome e o sobrenome em uma linha,
+ou seja, o usuario coloca primeiro o nome em um printf e o sobrenome no outro, e no final apresentamos os dois juntos.\\
+
 #include "stdio.h"
 #include "string.h"
 
