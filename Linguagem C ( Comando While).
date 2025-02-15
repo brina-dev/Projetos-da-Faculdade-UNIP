@@ -1,3 +1,5 @@
+//Esse código mostra o valor maior e o menor que o usuário digitou.//
+
 #include "stdio.h"
 
 int main()
